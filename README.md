@@ -1,3 +1,7 @@
+
+借作者第三方一用,以做存档
+
+
 Record audio in iOS or Android React Native apps.
 
 ## BREAKING CHANGES
